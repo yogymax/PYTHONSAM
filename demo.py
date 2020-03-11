@@ -1,5 +1,5 @@
 
-print('hiiiiiiiii')
+print('hiiiiiiiii..')
 #file -- module -- import -- modules.
 #from college_system.python_sample import m1,m2 #execute procedural code
 print('inside python demo..1')
