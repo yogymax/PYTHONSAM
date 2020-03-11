@@ -1,3 +1,6 @@
+
+print('hello')
+
 class Marks:
     def __init__(self,web,python,java,cloud='NA',env='NA'):
         self.websubmarks = web
